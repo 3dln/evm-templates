@@ -1,0 +1,26 @@
+{
+  "name": "@blockchain/monorepo",
+  "version": "0.1.0",
+  "keywords": [
+    "ethereum",
+    "evm",
+    "bsc",
+    "react",
+    "nextjs",
+    "uniswap",
+    "moralis",
+    "workspaces",
+    "yarn"
+  ],
+  "license": "MIT",
+  "private": true,
+  "scripts": {},
+  "workspaces": {
+    "packages": [
+      "packages/*"
+    ],
+    "nohoist": []
+  },
+  "dependencies": {},
+  "devDependencies": {}
+}
