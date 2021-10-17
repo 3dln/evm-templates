@@ -1,0 +1,3 @@
+[submodule "packages/webapp"]
+	path = packages/webapp
+	url = git@github.com:3dln/my-next.git
